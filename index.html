@@ -90,6 +90,32 @@
         </div>
       </div>
     </section>
+
+    <section id="contatos" class="contatos">
+      <h2 class="contatos-titulo">Entre em contato</h2>
+
+      <form
+        class="formulario-contato"
+        id="formulario"
+        onsubmit="enviarWhats(event)">
+        <div class="grupo-form">
+          <input placeholder="Nome" class="campo-form" id="nome" />
+        </div>
+
+        <div class="grupo-form">
+          <textarea
+            placeholder="Digite sua mensagem"
+            class="campo-form"
+            rows="4"
+            id="mensagem"
+          ></textarea>
+        </div>
+
+        <button type="submit" class="botao-form" id="mensagem">
+          Enviar WhatsApp
+        </button>
+      </form>
+    </section>
     
     </body>
 </html>
