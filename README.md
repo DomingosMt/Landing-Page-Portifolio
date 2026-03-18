@@ -1,4 +1,4 @@
-![alt text](image.png)
+<img width="1851" height="913" alt="image" src="https://github.com/user-attachments/assets/fbaa4896-61b6-47fb-bc6f-50c9b838dd76" />
 
 # Landing Page de Portfólio
 
